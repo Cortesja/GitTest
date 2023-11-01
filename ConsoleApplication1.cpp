@@ -15,8 +15,6 @@ int main()
     std::cout << "Player生成\n";
 
 
-
-
     std::cout << "プルしてください\n";
   
     std::cout << "プルしてください!!!!!!!!!!\n";
